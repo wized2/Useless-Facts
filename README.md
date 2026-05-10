@@ -155,8 +155,6 @@ git commit -m "add: [description]"
 git push origin your-branch
 ```
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFABAB,100:FFD6E0&height=100&section=footer" />
